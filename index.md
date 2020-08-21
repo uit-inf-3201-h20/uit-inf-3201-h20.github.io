@@ -37,9 +37,46 @@ Group Sessions:
 
 ## Lecture plan
 
-| Lecture   	| Date		    | Subject	  | Lecturer |
-|-----------|-----------|-----------|----------|
-| L1  | Date | [Introduction](lectures/01-introduction.pptx) | Lecturer |
+The lecture plan is tentative and will be updated. 
+
+Lecture notes/handouts: see files/lectures in Canvas. 
+
+| W   | Day         | Ass | Topic                               |
+| --- | ----------- | --- | ----------------------------------- |
+| 33  | Fri Aug 14  |     | Ch1, Introduction, covid, practical |
+| 34  | Mon Aug 17  |     | Ch2                                 |
+|     | Fri Aug 21  |     | Ch2 (cont)                          |
+| 35  | Mon Aug 24  |     | Ch3                                 |
+|     | Fri Aug 28  | 1.. | Ch3 (cont)                          |
+| 36  | Mon Aug 31  | 1.. | Ch4                                 |
+|     | Fri Sep 04  | 1.. |                                     |
+| 37  | Mon Sep 07  | 1.. | Concurrency, CSP                    |
+|     | Fri Sep 11  | 1.. |                                     |
+| 38  | Mon Sep 14  | 1.. | Ch5                                 |
+|     | Fri Sep 18  | .2. |                                     |
+| 39  | Mon Sep 21  | .2. | Ch6                                 |
+|     | Fri Sep 25  | .2. |                                     |
+| 40  | Mon Sep 28  | .2. | CUDA introduction                   |
+|     | Fri Oct 02  | .2. |                                     |
+| 41  | Mon Oct 05  | .2. | CUDA optimization                   |
+|     | Fri Oct 09  | ..3 |                                     |
+| 42  | Mon Oct 12  | ..3 | GPU vs CPU, NumPy                   |
+|     | Fri Oct 16  | ..3 |                                     |
+| 43  | Mon Oct 19  | ..3 | TODO                                |
+|     | Fri Oct 23  | ..3 |                                     |
+| 44  | Mon Oct 26  | ..3 | TODO                                |
+|     | Fri Oct 30  |     |                                     |
+| 45  | Mon Nov 02  |     | Libraries                           |
+|     | Fri Nov 06  |     |                                     |
+| 46  | Mon Nov 09  |     | Exam wrap-up                        |
+|     | Fri Nov 13  |     |                                     |
+| 47  | Mon Nov 16  |     |                                     |
+|     | Fri Nov 20  |     |                                     |
+| 48  | Mon Nov 23  |     |                                     |
+|     | Wed Nov 24  |     | Tentative exam                      |
+
+
+NB: the exam date can be moved. See the course info ([link](https://en.uit.no/education/courses/course?p_document_id=619076)) for more information. 
 
 
 ## Mandatory assignments
@@ -53,8 +90,14 @@ Group Sessions:
 | 41   | Wed Oct 7  | Mandatory project 3, handout |
 | 44   | Tue Oct 27 | Project 3 in                 |
 
-## Important links
 
+## Recorded lectures
+
+* 2020-08-14 [Introduction + Chapter1](https://mediasite.uit.no/Mediasite/Play/263f931c17204d0fb3f1d18d72723aac1d)
+* 2020-08-17 [Chapter 2 - part 1](https://mediasite.uit.no/Mediasite/Play/497897dcb592489aa6c8ada38877c2171d)
+* 2020-08-21 [Chpater 2 - part 2](https://mediasite.uit.no/Mediasite/Play/3cd57f7235834076ad69c697032e526c1d)
+
+## Important links
 
 - Canvas: https://uit.instructure.com/courses/18537
 - Course info: https://uit.no/utdanning/emner/emne/669138/inf-3201
