@@ -96,6 +96,7 @@ NB: the exam date can be moved. See the course info ([link](https://en.uit.no/ed
 * 2020-08-14 [Introduction + Chapter1](https://mediasite.uit.no/Mediasite/Play/263f931c17204d0fb3f1d18d72723aac1d)
 * 2020-08-17 [Chapter 2 - part 1](https://mediasite.uit.no/Mediasite/Play/497897dcb592489aa6c8ada38877c2171d)
 * 2020-08-21 [Chpater 2 - part 2](https://mediasite.uit.no/Mediasite/Play/3cd57f7235834076ad69c697032e526c1d)
+* 2020-08-24 [Chapter 3](https://mediasite.uit.no/Mediasite/Play/80fd7ce8fa694b3c87b7be2f883de01e1d)
 
 ## Important links
 
