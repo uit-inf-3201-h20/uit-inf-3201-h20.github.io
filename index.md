@@ -98,6 +98,9 @@ NB: the exam date can be moved. See the course info ([link](https://en.uit.no/ed
 * 2020-08-21 [Chpater 2 - part 2](https://mediasite.uit.no/Mediasite/Play/3cd57f7235834076ad69c697032e526c1d)
 * 2020-08-24 [Chapter 3](https://mediasite.uit.no/Mediasite/Play/80fd7ce8fa694b3c87b7be2f883de01e1d)
 
+## Recorded presentations of assignments
+* 2020-08-28 [Assignment 1 - MPI](https://mediasite.uit.no/Mediasite/Play/cd877206cf904316bad7365ee47c677b1d)
+
 ## Important links
 
 - Canvas: https://uit.instructure.com/courses/18537
