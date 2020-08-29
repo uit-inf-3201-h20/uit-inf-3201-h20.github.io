@@ -47,7 +47,7 @@ Lecture notes/handouts: see files/lectures in Canvas.
 | 34  | Mon Aug 17  |     | Ch2                                 |
 |     | Fri Aug 21  |     | Ch2 (cont)                          |
 | 35  | Mon Aug 24  |     | Ch3                                 |
-|     | Fri Aug 28  | 1.. | Ch3 (cont)                          |
+|     | Fri Aug 28  | 1.. |                                     |
 | 36  | Mon Aug 31  | 1.. | Ch4                                 |
 |     | Fri Sep 04  | 1.. |                                     |
 | 37  | Mon Sep 07  | 1.. | Concurrency, CSP                    |
