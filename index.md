@@ -14,11 +14,11 @@ Lectures (online only):
 
 Group sessions:
 
-| G#  | Day/time  |
-| --- | --------- |
-| 1   | Fri 08-10 |
-| 2   | Fri 14-16 |
-| 3   | Wed 14-16 |
+| G#  | Day/time                 |
+| --- | ---------                |
+| 1   | Fri 08-10                |
+| 2   | Fri 14-16                |
+| 3   | Wed 14-16  (online only) |
 
 ## Staff
 
@@ -103,7 +103,8 @@ NB: the exam date can be moved. See the course info ([link](https://en.uit.no/ed
 
 ## Important links
 
-- Canvas: https://uit.instructure.com/courses/18537
-- Course info: https://uit.no/utdanning/emner/emne/669138/inf-3201
-- New book this year: https://www.amazon.com/9780123742605/s?k=9780123742605
-- Calendar: http://timeplan.uit.no/emne_timeplan.php?sem=20h&module[]=INF-3201-1#week-32
+- Canvas: [https://uit.instructure.com/courses/18537](https://uit.instructure.com/courses/18537)
+- Course info: [https://uit.no/utdanning/emner/emne/669138/inf-3201](https://uit.no/utdanning/emner/emne/669138/inf-3201)
+- New book this year: [https://www.amazon.com/9780123742605/s?k=9780123742605](https://www.amazon.com/9780123742605/s?k=9780123742605)
+- Calendar: [http://timeplan.uit.no/emne_timeplan.php?sem=20h&module[]=INF-3201-1](http://timeplan.uit.no/emne_timeplan.php?sem=20h&module[]=INF-3201-1)
+
