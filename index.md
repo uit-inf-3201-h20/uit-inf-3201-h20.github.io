@@ -20,6 +20,7 @@ Group sessions:
 | 2   | Fri 14-16                |
 | 3   | Wed 14-16  (online only) |
 
+
 ## Staff
 
 Lectures:
@@ -83,12 +84,12 @@ NB: the exam date can be moved. See the course info ([link](https://en.uit.no/ed
 
 | W#   | Date       | Topic                        |
 | ---- | -----      | -------                      |
-| 35   | Wed Aug 26 | Mandatory project 1, handout |
-| 38   | Tue Sep 15 | Project 1 in                 |
-| 38   | Wed Sep 16 | Mandatory project 2, handout |
-| 41   | Tue Oct 6  | Project 2 in                 |
-| 41   | Wed Oct 7  | Mandatory project 3, handout |
-| 44   | Tue Oct 27 | Project 3 in                 |
+| 35   | Fri Aug 28 | Mandatory project 1, handout |
+| 38   | Thu Sep 17 | Project 1 in                 |
+| 38   | Fri Sep 18 | Mandatory project 2, handout |
+| 41   | Thu Oct 8  | Project 2 in                 |
+| 41   | Fri Oct 9  | Mandatory project 3, handout |
+| 44   | Thu Oct 29 | Project 3 in                 |
 
 
 ## Recorded lectures
