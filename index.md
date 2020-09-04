@@ -51,9 +51,9 @@ Lecture notes/handouts: see files/lectures in Canvas.
 |     | Fri Aug 28  | 1.. |                                     |                                         |
 | 36  | Mon Aug 31  | 1.. | Ch4                                 |                                         |
 |     | Fri Sep 04  | 1.. |                                     |                                         |
-| 37  | Mon Sep 07  | 1.. | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
+| 37  | Mon Sep 07  | 1.. | Ch5                                 |                                         |
 |     | Fri Sep 11  | 1.. |                                     |                                         |
-| 38  | Mon Sep 14  | 1.. | Ch5                                 |                                         |
+| 38  | Mon Sep 14  | 1.. | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
 |     | Fri Sep 18  | .2. |                                     |                                         |
 | 39  | Mon Sep 21  | .2. | Ch6                                 |                                         |
 |     | Fri Sep 25  | .2. |                                     |                                         |
