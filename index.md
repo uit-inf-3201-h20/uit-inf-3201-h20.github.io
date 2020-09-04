@@ -79,7 +79,7 @@ Lecture notes/handouts: see files/lectures in Canvas.
 
 NB: the exam date can be moved. See the course info ([link](https://en.uit.no/education/courses/course?p_document_id=619076)) for more information. 
 
-Links/notes to lectures
+Links/notes to lecture plan
 1. Please watch [https://blog.golang.org/concurrency-is-not-parallelism](https://blog.golang.org/concurrency-is-not-parallelism) before the lecture. 
 
 
