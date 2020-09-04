@@ -42,42 +42,46 @@ The lecture plan is tentative and will be updated.
 
 Lecture notes/handouts: see files/lectures in Canvas. 
 
-| W   | Day         | Ass | Topic                               |
-| --- | ----------- | --- | ----------------------------------- |
-| 33  | Fri Aug 14  |     | Ch1, Introduction, covid, practical |
-| 34  | Mon Aug 17  |     | Ch2                                 |
-|     | Fri Aug 21  |     | Ch2 (cont)                          |
-| 35  | Mon Aug 24  |     | Ch3                                 |
-|     | Fri Aug 28  | 1.. |                                     |
-| 36  | Mon Aug 31  | 1.. | Ch4                                 |
-|     | Fri Sep 04  | 1.. |                                     |
-| 37  | Mon Sep 07  | 1.. | Concurrency, CSP                    |
-|     | Fri Sep 11  | 1.. |                                     |
-| 38  | Mon Sep 14  | 1.. | Ch5                                 |
-|     | Fri Sep 18  | .2. |                                     |
-| 39  | Mon Sep 21  | .2. | Ch6                                 |
-|     | Fri Sep 25  | .2. |                                     |
-| 40  | Mon Sep 28  | .2. | CUDA introduction                   |
-|     | Fri Oct 02  | .2. |                                     |
-| 41  | Mon Oct 05  | .2. | CUDA optimization                   |
-|     | Fri Oct 09  | ..3 |                                     |
-| 42  | Mon Oct 12  | ..3 | GPU vs CPU, NumPy                   |
-|     | Fri Oct 16  | ..3 |                                     |
-| 43  | Mon Oct 19  | ..3 | TODO                                |
-|     | Fri Oct 23  | ..3 |                                     |
-| 44  | Mon Oct 26  | ..3 | TODO                                |
-|     | Fri Oct 30  |     |                                     |
-| 45  | Mon Nov 02  |     | Libraries                           |
-|     | Fri Nov 06  |     |                                     |
-| 46  | Mon Nov 09  |     | Exam wrap-up                        |
-|     | Fri Nov 13  |     |                                     |
-| 47  | Mon Nov 16  |     |                                     |
-|     | Fri Nov 20  |     |                                     |
-| 48  | Mon Nov 23  |     |                                     |
-|     | Wed Nov 24  |     | Tentative exam                      |
+| W   | Day         | Ass | Topic                               | Additional notes                        |
+| --- | ----------- | --- | ----------------------------------- | -----------------                       |
+| 33  | Fri Aug 14  |     | Ch1, Introduction, covid, practical |                                         |
+| 34  | Mon Aug 17  |     | Ch2                                 |                                         |
+|     | Fri Aug 21  |     | Ch2 (cont)                          |                                         |
+| 35  | Mon Aug 24  |     | Ch3                                 |                                         |
+|     | Fri Aug 28  | 1.. |                                     |                                         |
+| 36  | Mon Aug 31  | 1.. | Ch4                                 |                                         |
+|     | Fri Sep 04  | 1.. |                                     |                                         |
+| 37  | Mon Sep 07  | 1.. | Concurrency, CSP                    | Watch 1) (see below) before the lecture |
+|     | Fri Sep 11  | 1.. |                                     |                                         |
+| 38  | Mon Sep 14  | 1.. | Ch5                                 |                                         |
+|     | Fri Sep 18  | .2. |                                     |                                         |
+| 39  | Mon Sep 21  | .2. | Ch6                                 |                                         |
+|     | Fri Sep 25  | .2. |                                     |                                         |
+| 40  | Mon Sep 28  | .2. | CUDA introduction                   |                                         |
+|     | Fri Oct 02  | .2. |                                     |                                         |
+| 41  | Mon Oct 05  | .2. | CUDA optimization                   |                                         |
+|     | Fri Oct 09  | ..3 |                                     |                                         |
+| 42  | Mon Oct 12  | ..3 | GPU vs CPU, NumPy                   |                                         |
+|     | Fri Oct 16  | ..3 |                                     |                                         |
+| 43  | Mon Oct 19  | ..3 | TODO                                |                                         |
+|     | Fri Oct 23  | ..3 |                                     |                                         |
+| 44  | Mon Oct 26  | ..3 | TODO                                |                                         |
+|     | Fri Oct 30  |     |                                     |                                         |
+| 45  | Mon Nov 02  |     | Libraries                           |                                         |
+|     | Fri Nov 06  |     |                                     |                                         |
+| 46  | Mon Nov 09  |     | Exam wrap-up                        |                                         |
+|     | Fri Nov 13  |     |                                     |                                         |
+| 47  | Mon Nov 16  |     |                                     |                                         |
+|     | Fri Nov 20  |     |                                     |                                         |
+| 48  | Mon Nov 23  |     |                                     |                                         |
+|     | Wed Nov 24  |     | Tentative exam                      |                                         |
 
 
 NB: the exam date can be moved. See the course info ([link](https://en.uit.no/education/courses/course?p_document_id=619076)) for more information. 
+
+Links/notes to lectures
+1. Please watch [https://blog.golang.org/concurrency-is-not-parallelism](https://blog.golang.org/concurrency-is-not-parallelism) before the lecture. 
+
 
 
 ## Mandatory assignments
