@@ -109,6 +109,7 @@ Links/notes to lecture plan
 ## Recorded presentations of assignments
 * 2020-08-28 [Assignment 1 - MPI](https://mediasite.uit.no/Mediasite/Play/cd877206cf904316bad7365ee47c677b1d)
 * 2020-09-18 [Assignment 2 - OpenMP](https://mediasite.uit.no/Mediasite/Play/9929d39e2b814db0b56e25cb1b0eaba21d)
+* 2020-09-25 [Assignment 2 - Profiling tools](https://mediasite.uit.no/Mediasite/Play/4be5cdaaf44641e68fe70952ee416c351d)
 
 ## Important links
 
