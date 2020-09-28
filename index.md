@@ -103,7 +103,7 @@ Links/notes to lecture plan
 * 2020-08-21 [Chapter 2 - part 2](https://mediasite.uit.no/Mediasite/Play/3cd57f7235834076ad69c697032e526c1d)
 * 2020-08-24 [Chapter 3](https://mediasite.uit.no/Mediasite/Play/80fd7ce8fa694b3c87b7be2f883de01e1d)
 * 2020-08-31 [Chapter 4](https://mediasite.uit.no/Mediasite/Play/2a7eb0ca101c4ac383efc905e4301d551d)
-* 2020-09-07 Chapter 5 - TODO
+* 2020-09-07 [Chapter 5](https://mediasite.uit.no/Mediasite/Play/c831a963798e45a98a7e448538ffa8581d)
 * 2020-09-14 [CSP, Concurrency](https://mediasite.uit.no/Mediasite/Play/0cc2d910128047dbadc642b265c316ab1d)
 
 ## Recorded presentations of assignments
