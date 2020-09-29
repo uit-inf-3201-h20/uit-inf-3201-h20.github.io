@@ -105,6 +105,7 @@ Links/notes to lecture plan
 * 2020-08-31 [Chapter 4](https://mediasite.uit.no/Mediasite/Play/2a7eb0ca101c4ac383efc905e4301d551d)
 * 2020-09-07 [Chapter 5](https://mediasite.uit.no/Mediasite/Play/c831a963798e45a98a7e448538ffa8581d)
 * 2020-09-14 [CSP, Concurrency](https://mediasite.uit.no/Mediasite/Play/0cc2d910128047dbadc642b265c316ab1d)
+* 2020-09-28 [GPU / CUDA Introduction](https://mediasite.uit.no/Mediasite/Play/0ca939b59dd4483e84cf8ab4c7154ac11d)
 
 ## Recorded presentations of assignments
 * 2020-08-28 [Assignment 1 - MPI](https://mediasite.uit.no/Mediasite/Play/cd877206cf904316bad7365ee47c677b1d)
