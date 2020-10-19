@@ -105,7 +105,7 @@ Links/notes to lecture plan
 * 2020-08-31 [Chapter 4](https://mediasite.uit.no/Mediasite/Play/2a7eb0ca101c4ac383efc905e4301d551d)
 * 2020-09-07 [Chapter 5](https://mediasite.uit.no/Mediasite/Play/c831a963798e45a98a7e448538ffa8581d)
 * 2020-09-14 [CSP, Concurrency](https://mediasite.uit.no/Mediasite/Play/0cc2d910128047dbadc642b265c316ab1d)
-* 2020-09-21 [Chapter 6](https://mediasite.uit.no/Mediasite/Play/9a5c993f805a47baad0b86e664fa0be91d)
+* 2020-09-21 [Chapter 6](https://mediasite.uit.no/Mediasite/Play/219c6b4f11df4ade9ce76825995071e11d)
 * 2020-09-28 [GPU / CUDA Introduction](https://mediasite.uit.no/Mediasite/Play/0ca939b59dd4483e84cf8ab4c7154ac11d)
 * 2020-10-05 [CUDA optimization](https://mediasite.uit.no/Mediasite/Play/07b4b49558114578a8a7ac771d388ff91d)
 * 2020-10-12 [Part 1 - CPU vs GPU](https://mediasite.uit.no/Mediasite/Play/50eaf7cbc8c94ea7bc6c6da6dccf98ca1d)
