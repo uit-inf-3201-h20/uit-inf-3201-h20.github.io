@@ -65,7 +65,7 @@ Lecture notes/handouts: see files/lectures in Canvas.
 |     | Fri Oct 16  | ..3 |                                     |                                         |
 | 43  | Mon Oct 19  | ..3 | TBA                                 |                                         |
 |     | Fri Oct 23  | ..3 |                                     |                                         |
-| 44  | Mon Oct 26  | ..3 | TBA                                 |                                         |
+| 44  | Mon Oct 26  | ..3 |Christian Schultz (SINTEF) Lecture   |                                         |
 |     | Fri Oct 30  |     |                                     |                                         |
 | 45  | Mon Nov 02  |     | Libraries                           |                                         |
 |     | Fri Nov 06  |     |                                     |                                         |
