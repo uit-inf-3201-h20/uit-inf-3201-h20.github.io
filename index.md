@@ -110,6 +110,7 @@ Links/notes to lecture plan
 * 2020-10-05 [CUDA optimization](https://mediasite.uit.no/Mediasite/Play/07b4b49558114578a8a7ac771d388ff91d)
 * 2020-10-12 [Part 1 - CPU vs GPU](https://mediasite.uit.no/Mediasite/Play/50eaf7cbc8c94ea7bc6c6da6dccf98ca1d)
 * 2020-10-12 [Part 2 - NumPy, Matplotlib, jupyter notebooks](https://mediasite.uit.no/Mediasite/Play/d45abae85d8b41cca8ed08dfa1fe4c9c1d)
+* 2020-10-26 [Guest lecture by Christian Schultz - SINTEF ](https://mediasite.uit.no/Mediasite/Play/f3a2723b9b0b41b1a851e6f5fb094b8b1d)
 
 ## Recorded presentations of assignments
 * 2020-08-28 [Assignment 1 - MPI](https://mediasite.uit.no/Mediasite/Play/cd877206cf904316bad7365ee47c677b1d)
