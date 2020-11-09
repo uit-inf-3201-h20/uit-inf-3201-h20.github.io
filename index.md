@@ -112,6 +112,7 @@ Links/notes to lecture plan
 * 2020-10-12 [Part 2 - NumPy, Matplotlib, jupyter notebooks](https://mediasite.uit.no/Mediasite/Play/d45abae85d8b41cca8ed08dfa1fe4c9c1d)
 * 2020-10-26 [Guest lecture by Christian Schultz - SINTEF ](https://mediasite.uit.no/Mediasite/Play/f3a2723b9b0b41b1a851e6f5fb094b8b1d)
 * 2020-11-02 [Libraries](https://mediasite.uit.no/Mediasite/Play/82fd65691ef64e339e4261bbcb9a3bea1d)
+* 2020-11-09 [Exam prep](https://mediasite.uit.no/Mediasite/Play/5995728dbe0145ff971f9cb79358b6ec1d)
 
 ## Recorded presentations of assignments
 * 2020-08-28 [Assignment 1 - MPI](https://mediasite.uit.no/Mediasite/Play/cd877206cf904316bad7365ee47c677b1d)
